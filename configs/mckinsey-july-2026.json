@@ -1,0 +1,19 @@
+{
+  "event_name": "Financial Services Sandbox Enablement — July 2026",
+  "org_name": "McKinsey - July 2026",
+  "git_connection_id": "git-connection-e9bbba86a07a42a69bacc3d6670c3184",
+  "max_session_acu_limit": 250,
+  "max_cycle_acu_limit": 250,
+  "repos": [
+    "Cognition-Partner-Workshops/ts-java-spring-boot-internet-banking",
+    "Cognition-Partner-Workshops/uc-cve-remediation-regulatory-compliance",
+    "Cognition-Partner-Workshops/uc-legacy-modernization-cobol-to-java",
+    "Cognition-Partner-Workshops/uc-db-migration-sybase-to-sqlserver",
+    "Cognition-Partner-Workshops/fineract"
+  ],
+  "setup_as_user_id": "",
+  "setup_prompt_template": "Set up the {repo} repository from scratch: install dependencies, get the build and tests working. Then capture the working setup steps in the .yaml environment configuration.\n\nShould we get the app running: yes",
+  "emails_file": "",
+  "enterprise_role_id": "",
+  "org_role_id": ""
+}
